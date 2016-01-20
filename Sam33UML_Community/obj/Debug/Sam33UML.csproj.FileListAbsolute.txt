@@ -1,0 +1,43 @@
+c:\users\sam33\documents\visual studio 2013\Projects\Sam33UML\Sam33UML\bin\Debug\Sam33UML.exe.config
+c:\users\sam33\documents\visual studio 2013\Projects\Sam33UML\Sam33UML\bin\Debug\Sam33UML.exe
+c:\users\sam33\documents\visual studio 2013\Projects\Sam33UML\Sam33UML\bin\Debug\Sam33UML.pdb
+c:\users\sam33\documents\visual studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\Sam33UML.csprojResolveAssemblyReference.cache
+c:\users\sam33\documents\visual studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\MainWindow.baml
+c:\users\sam33\documents\visual studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\MainWindow.g.cs
+c:\users\sam33\documents\visual studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\App.g.cs
+c:\users\sam33\documents\visual studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\Sam33UML_MarkupCompile.cache
+c:\users\sam33\documents\visual studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\Sam33UML.g.resources
+c:\users\sam33\documents\visual studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\Sam33UML.Properties.Resources.resources
+c:\users\sam33\documents\visual studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\Sam33UML.csproj.GenerateResource.Cache
+c:\users\sam33\documents\visual studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\Sam33UML.exe
+c:\users\sam33\documents\visual studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\Sam33UML.pdb
+c:\users\sam33\documents\visual studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\Sam33UML_MarkupCompile.lref
+c:\users\sam33\documents\visual studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\Controls\ToolsPanel.baml
+c:\users\sam33\documents\visual studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\Controls\ToolsPanel.g.cs
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\Sam33UML.Controls.InputTextDialog.resources
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\Controls\About Sam33UML.baml
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\Controls\About Sam33UML.g.cs
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\Controls\About Author.baml
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML\Sam33UML\obj\Debug\Controls\About Author.g.cs
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\bin\Debug\Sam33UML.exe.config
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\Sam33UML.exe
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\Sam33UML.pdb
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\bin\Debug\Sam33UML.exe
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\bin\Debug\Sam33UML.pdb
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\Sam33UML.csprojResolveAssemblyReference.cache
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\Others\About Author.baml
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\Others\About Sam33UML.baml
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\Controls\ToolsPanel.baml
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\Others\BasicInputDialog.baml
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\Others\About Author.g.cs
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\Others\About Sam33UML.g.cs
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\Controls\ToolsPanel.g.cs
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\MainWindow.g.cs
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\Others\BasicInputDialog.g.cs
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\App.g.cs
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\Sam33UML_MarkupCompile.cache
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\Sam33UML_MarkupCompile.lref
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\MainWindow.baml
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\Sam33UML.g.resources
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\Sam33UML.Properties.Resources.resources
+C:\Users\sam33\Documents\Visual Studio 2013\Projects\Sam33UML_Community\Sam33UML_Community\obj\Debug\Sam33UML.csproj.GenerateResource.Cache

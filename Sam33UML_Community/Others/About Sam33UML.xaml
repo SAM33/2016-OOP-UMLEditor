@@ -1,0 +1,33 @@
+﻿<Window x:Name="___沒有名稱_" x:Class="Sam33UML.Others.About_Sam33UML"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sam33UML" Height="298" Width="459" WindowStyle="ToolWindow">
+    <StackPanel>
+        <TextBlock Margin="10" Foreground="Red">
+                        Sam33UML is an opensource software for creating UML diagram.<LineBreak />
+                        It is a homework of object-oriented analysis class in NCUCSIE, Taiwan.
+                        
+        </TextBlock>
+        <TextBlock Margin="10,10,13,10" Foreground="Green" Height="18">
+            Github : <TextBlock x:Name="GithubURL"  TextTrimming="CharacterEllipsis" Foreground="Green" MouseLeftButtonDown="GithubURL_MouseLeftButtonDown" MouseEnter="GithubURL_MouseEnter" MouseLeave="GithubURL_MouseLeave"><Run Text="https://github.com/SAM33/Sam33UML"/><InlineUIContainer/></TextBlock> (Avaliable after Final)
+        </TextBlock>
+       
+        <TextBlock Margin="12,10" TextWrapping="Wrap" Foreground="Black" HorizontalAlignment="Center" Height="165" TextAlignment="Center">
+                        
+The MIT License (MIT)<LineBreak />
+
+Copyright (c) 2015 Sam33<LineBreak />
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+        </TextBlock>
+    </StackPanel>
+</Window>

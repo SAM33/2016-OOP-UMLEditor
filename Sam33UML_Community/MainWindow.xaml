@@ -1,0 +1,62 @@
+﻿<Window x:Class="Sam33UML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:Sam33UML.Controls"
+        Title="Sam33UML Final" SizeChanged="Window_SizeChanged">
+    <DockPanel Background="{DynamicResource {x:Static SystemColors.MenuBarBrushKey}}" >
+        <Menu x:Name="Menu" Background="#FFD8D8D8" DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_New" IsEnabled="False" Click="Windows_File_New_Click" />
+                <MenuItem Header="_Open" IsEnabled="False" />
+                <Separator />
+                <MenuItem Header="_Save" IsEnabled="False"/>
+                <MenuItem Header="_Save As" IsEnabled="False" />
+                <Separator />
+                <MenuItem Header="_Export" IsEnabled="False"/>
+                <Separator />
+                <MenuItem Header="_Exit" Click="Windows_File_Close_Click"/>
+            </MenuItem>
+
+            <MenuItem Header="_Edit">
+                <MenuItem Header="_Change object name" Click="Windows_Edit_ChangeObjectName_Click" />
+                <Separator />
+                <MenuItem Header="_Group" Click="Windows_Edit_Group_Click" />
+                <MenuItem Header="_UnGroup" Click="Windows_Edit_Ungroup_Click"/>
+                <Separator />
+                <MenuItem Header="_Delete" IsEnabled="False"/>
+                <MenuItem Header="_Cut" IsEnabled="False"/>
+                <MenuItem Header="_Copy" IsEnabled="False"/>
+                <MenuItem Header="_Paste" IsEnabled="False"/>
+            </MenuItem>
+
+            <MenuItem Header="_View">
+                <MenuItem Header="_Show corner pin" IsEnabled="False" IsCheckable="True" IsChecked="True" />
+                <MenuItem Header="_Show connection port" IsEnabled="False" IsCheckable="True" IsChecked="True"/>
+            </MenuItem>
+
+            <MenuItem x:Name="Menu_Language" Header="_Language">
+                <MenuItem Header="_English" IsCheckable="True" IsChecked="True" />
+                <MenuItem Header="_繁體中文" IsEnabled="False" IsCheckable="True" IsChecked="False"/>
+            </MenuItem>
+
+            <MenuItem x:Name="Menu_About" Header="_About">
+                <MenuItem Header="_Document" IsEnabled="False" />
+                <Separator />
+                <MenuItem Header="_About Sam33UML" Click="Windows_About_AboutSam33UML_Click"/>
+                <MenuItem Header="_About Author" Click="Windows_About_AboutAuthor_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <Grid DockPanel.Dock="Left">
+            <Grid.ColumnDefinitions >
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Border x:Name="ToolsPanelBorder" Grid.Column="0" VerticalAlignment="Top" HorizontalAlignment="Left" />
+            <ScrollViewer Grid.Column="1" x:Name="Scroll"  ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Visible" Grid.ColumnSpan="2" VerticalAlignment="Top" HorizontalAlignment="Left">
+                <Border x:Name="DrawBorder" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+            </ScrollViewer >
+        </Grid>
+
+    </DockPanel>
+</Window>
